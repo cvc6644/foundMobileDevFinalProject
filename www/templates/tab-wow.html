@@ -1,0 +1,32 @@
+<ion-view view-title="Wow">
+  <ion-content>
+      <ion-list>
+      <ion-item >
+          <select ng-model="wow.class" ng-change="updateClass(wow.class)">
+              <option value="" disabled="" selected="" class="ng-binding">Select a Class</option>
+              <option ng-repeat="name in wow" value="{{name.id}}">{{name.class}}</option>
+          </select>
+          <select id="spec" ng-model="wow.specs" ng-change="" disabled="">
+              
+              <option value="" disabled="" selected="" class="ng-binding">No Class Selected</option>
+          </select>
+           <select disabled="">
+               <option selected="">New Save</option>
+          </select>
+      </ion-item>
+      </ion-list>
+      
+    <!--<ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/chats/{{chat.id}}">
+        <img ng-src="{{chat.face}}">
+        <h2>{{chat.name}}</h2>
+        <p>{{chat.lastText}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+
+        <ion-option-button class="button-assertive" ng-click="remove(chat)">
+          Delete
+        </ion-option-button>
+      </ion-item>
+    </ion-list>-->
+  </ion-content>
+</ion-view>
