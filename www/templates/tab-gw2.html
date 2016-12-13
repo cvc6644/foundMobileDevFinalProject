@@ -1,9 +1,19 @@
 <ion-view view-title="GW2">
-  <ion-content>
+  <ion-content class="padding">
     <ion-list>
-    <ion-toggle  ng-model="settings.enableFriends">
-        Enable Friends
-    </ion-toggle>
-    </ion-list>
+      <ion-item >
+          <select ng-model="gw2.class" ng-change="updateClass(gw2.class)">
+              <option value="" disabled="" selected="" class="ng-binding">Select a Class</option>
+              <option ng-repeat="name in gw2" value="{{name.id}}">{{name.class}}</option>
+          </select>
+          <select id="spec" ng-model="gw2.specs" ng-change="" disabled="">
+              
+              <option value="" disabled="" selected="" class="ng-binding">No Class Selected</option>
+          </select>
+           <select disabled="">
+               <option selected="">New Save</option>
+          </select>
+      </ion-item>
+      </ion-list>
   </ion-content>
 </ion-view>

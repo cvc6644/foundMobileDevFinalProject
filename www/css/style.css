@@ -1,1 +1,18 @@
-/* Empty. Add your own CSS if you like */
+.customiconWow{
+  content: url(../../img/wow.svg);
+  padding-top: 5px;
+  padding-left: 6px;
+  opacity: 0.9;
+}
+.customiconDestiny{
+  content: url(../../img/destiny.svg);
+  padding-top: 5px;
+  padding-left: 6px;
+  opacity: 0.9;
+}
+.customiconGw2{ 
+  content: url(../../img/gw2.svg);
+  padding-top: 5px;
+  padding-left: 6px;
+  opacity: 0.9;
+}
