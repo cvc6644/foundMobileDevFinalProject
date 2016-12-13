@@ -2,7 +2,7 @@
   <ion-content class="padding">
     <ion-list>
       <ion-item >
-          <select ng-model="gw2.class" ng-change="updateClass(gw2.class)">
+          <select ng-model="gw2.class" ng-change="updateClassGW2(gw2.class)">
               <option value="" disabled="" selected="" class="ng-binding">Select a Class</option>
               <option ng-repeat="name in gw2" value="{{name.id}}">{{name.class}}</option>
           </select>

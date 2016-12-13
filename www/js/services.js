@@ -1499,7 +1499,53 @@ angular.module('starter.services', [])
   };
 })
 .factory('destiny',function(){
-    var destinyData = [];
+    var destinyData = [
+    {
+        id:0,
+        class:'Titan',
+        specs:[
+            {
+                name:'Defender'
+            },
+            {
+                name:'Sunbreaker'
+            },
+            {
+                name:'Striker'
+            }
+        ]
+    },
+    {
+        id:1,
+        class:'Hunter',
+        specs:[
+            {
+                name:'Gunslinger'
+            },
+            {
+                name:'Bladedancer'
+            },
+            {
+                name:'Nightstalker'
+            }
+        ]
+    },
+    {
+        id:2,
+        class:'Warlock',
+        specs:[
+            {
+                name:'Voidwalker'
+            },
+            {
+                name:'Sunsinger'
+            },
+            {
+                name:'Stormcaller'
+            }
+        ]
+    }
+    ];
     return {
     all: function() {
       return destinyData;

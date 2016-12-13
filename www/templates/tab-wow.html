@@ -2,7 +2,7 @@
   <ion-content class="padding">
       <ion-list>
       <ion-item >
-          <select ng-model="wow.class" ng-change="updateClass(wow.class)">
+          <select ng-model="wow.class" ng-change="updateClassWow(wow.class)">
               <option value="" disabled="" selected="" class="ng-binding">Select a Class</option>
               <option ng-repeat="name in wow" value="{{name.id}}">{{name.class}}</option>
           </select>
