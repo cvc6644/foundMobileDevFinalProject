@@ -13,86 +13,86 @@ angular.module('starter.services', [])
                   ranks:[
                       {
                           right:{
-                              icon:'http://wow.zamimg.com/images/wow/icons/large/ability_druid_forceofnature.jpg',
+                              icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_forceofnature.jpg',
                               name:'Force of Nature',
                               desc:"Summons a stand of 3 Treants for 10 sec which immediately taunt and attack enemies in the targeted area."
 
                           },
                           center:{
-                              icon:"http://wow.zamimg.com/images/wow/icons/large/spell_holy_elunesgrace.jpg",
+                              icon:"http://wow.zamimg.com/images/wow/icons/medium/spell_holy_elunesgrace.jpg",
                               name:"Warrior of Elune",
                               desc:"Your next 2 Lunar Strikes are instant cast."
                           },
                           left:{
-                              icon:"http://wow.zamimg.com/images/wow/icons/large/spell_shaman_measuredinsight.jpg",
+                              icon:"http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_measuredinsight.jpg",
                               name:"Starlord",
                               desc:"Lunar and Solar Empowerments also reduce the cast time of their affected spells by 20%."
                           }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_natureblessing.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_displacement.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_wildcharge.jpg'
                         }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_cat.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_bear.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedtreeform.jpg'
                         }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_bash.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_massentanglement.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_typhoon.jpg'
                         }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_manatree.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_incarnation.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_stellarflare.jpg'
                         }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_divinestar_shadow2.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_elunesgrace.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_ancientprotector.jpg'
                         }
                       },
                       {
                           right:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_dreamstate.jpg'
                         },
                           center:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_starfall.jpg'
                         },
                           left:{
-                            icon:''
+                            icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_balanceofpower.jpg'
                         }
                       }
                   ]
@@ -100,115 +100,115 @@ angular.module('starter.services', [])
               {name:'Feral',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_catlikereflexes.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mount_pinktiger.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_lunarinspiration.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_natureblessing.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_displacement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_wildcharge.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedmoonkinform.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_bear.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedtreeform.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_bash.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_massentanglement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_typhoon.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_manatree.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_incarnation.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_skinteeth.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_disembowel.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_elunesgrace.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_ravage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_bloodythrash.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_momentofclarity.jpg'}
                       }
                   ]},
               {name:'Guardian',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_thornnecklace.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_bristlingfur.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_primaltenacity.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_enrage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_displacement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_wildcharge.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedmoonkinform.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_cat.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedtreeform.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_bash.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_massentanglement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_typhoon.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_manatree.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_incarnation.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_iceclaw.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_blessingofeternals.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_guardianofelune.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_enrage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_swipe.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_moonglow.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_malfurionstenacity.jpg'}
                       }
                   ]},
               {name:'Restoration',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_rampantgrowth.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_naturalperfection.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_empoweredrejuvination.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_natureblessing.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_displacement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_wildcharge.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedmoonkinform.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_bear.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/talentspec_druid_feral_bear.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_bash.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_massentanglement.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_typhoon.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_manatree.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_improvedtreeform.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_nourish.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_trailofflowers.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_dreamstate.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_germination.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_momentofclarity.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_replenish.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_druid_wildburst.jpg'}
                       }
                   ]}
           ]
@@ -220,115 +220,115 @@ angular.module('starter.services', [])
               {name:'Blood',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_deathstrike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_animusdraw.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_deathsiphon2.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_spelldeflection.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_brittlebones.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_bloodtap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_antimagicshell.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_rapidkilling.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_bloodpresence.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_fiegndead.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_chilltouch.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_auraofdarkness.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonicempathy.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_kelthuzad_01.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_runetap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_armor_shield_naxxramas_d_02.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_boneshield.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_01.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_shadowegg.jpg'}
                       }
                   ]},
               {name:'Frost',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_shatteringthrow.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_icytalons.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostarmor.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_arcticwinds.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_permafrostshard.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_02.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_icecap.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_hungeringruneblade.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_icestorm.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_icetouch.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_chillingblast.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_wolfdraenormountfrost.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_shattershield.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_zone_frostfire.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_icygrip.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_2h_farmscythe_a_01.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/boss_odunrunes_blue.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_ice-shards.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_axe_114.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_breathofsindragosa.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_glacialtrap.jpg'}
                       }
                   ]},
               {name:'Unholy',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_fiegndead.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_infectedwound.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_creepingplague.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_unholypresence.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_yorsahj_bloodboil_purpleoil.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_plaguestrike.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_unholyfrenzy.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_fumble.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_curse_shadow.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_patchwerk.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_asphixiate.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_necroticplague.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_creature_cursed_03.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_ghoul.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_senseundead.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_requiem.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_60.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_thrash_ghoul.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_svalasorrowgrave.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_deathknight_defile.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathknight_soulreaper.jpg'}
                       }
                   ]}
           ]
@@ -340,77 +340,77 @@ angular.module('starter.services', [])
               {name:'Vengence',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_summonabyssal.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievment_raid_houroftwilight.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_demonspikes2.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_volatilefiregreen.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonicempowerment.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_creature_felsunder.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_bossfelorcs_necromancer_red.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_sigilofchains.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_concentratedsigils.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_feldevastation.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/trade_archaeology_zinrokh-sword.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_icon_shadowcouncilorb_purple.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldorchi_d_06.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_netherbond.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldrochi_d_05.jpg'}
                       }
                   ]},
               {name:'Havoc',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_skyreach_piercing_rush.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_62.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_vengefulretreat.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_misc_zandalari_council_soulswap.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bloodlet.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_improveddemonictactics.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_demonicempowerment.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldrochi_d_03dual.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_felarakkoa_feldetonation_green.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg'}
                       }
                   ]}
           ]
@@ -422,115 +422,115 @@ angular.module('starter.services', [])
               {name:'Survival',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_predatoryinstincts.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxepvp320_07.jpg  '},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_character_orc_male_brn.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_murderofcrows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_bloodbath.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_epochhunter.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_posthaste.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_chimera.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_aspectmastery.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_incindiarydevice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_pettrap.jpg'},
                           left:{icon:''}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_08.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_net_01.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_camouflage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_butcher_cleave.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_incinerate.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_serpentswiftness.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_cobrastrikes.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_pettrap02.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_assualtaspects.jpg'}
                       }
                   ]},
               {name:'Marksmanship',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_hunter_lonewolf.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_improvedsteadyshot.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_zenarchery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_lockandload.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_painspike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_hunter_focusingshot.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_posthaste.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_chimera.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_aspectmastery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_explosiveshot.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_sentinal.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_snipertraining.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_bindelemental.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_camouflage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_murderofcrows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_rapidregeneration.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_serpentswiftness.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_cheapshot.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_runningshot.jpg'}
                       }
                   ]},
               {name:'Beast Master',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_efficiency.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_cobrastrikes.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_sickem.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_thunderstruck.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_mangle.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_chimerashot2.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_posthaste.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_chimera.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_aspectmastery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/icon_upgradestone_beast_uncommon.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_fervor.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_arcane04.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_bindelemental.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_devour.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_murderofcrows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_rapidregeneration.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_bestialdiscipline.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_snaketrap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_assualtaspects.jpg'}
                       }
                   ]}
           ]
@@ -542,115 +542,115 @@ angular.module('starter.services', [])
               {name:'Fury',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_rapidkilling.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_endlessrage.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_shockwave.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_stormbolt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_04.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_butcher_whirl.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_ancestralguardian.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_avatar.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warrior_barbarian.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_heroicleap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_preparation.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_sword_48.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_furyintheblood.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_rampage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_bloodbath.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_axe_2h_orcwarrior_c_01.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_innerrage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_bladestorm.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_battleshout.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_dragonroar.jpg'}
                       }
                   ]},
               {name:'Protection',
                  ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_shockwave.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_stormbolt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_warbringer.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_impending_victory.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_toughness.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_safeguard.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_intensifyrage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_stalwartprotector.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_avatar.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_racial_bloodrage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_heroicleap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_thunderking_overcharge.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_revenge.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_butcher_gushingwounds.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_intensifyrage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_unrelentingassault.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_bloodfrenzy.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_battleshout.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_angermanagement.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_shield_32.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_ravager.jpg'}
                       }
                   ]},
               {name:'Arms',
                  ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_unrelentingassault.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_meleedamage.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_slicedice.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_shockwave.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_stormbolt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_04.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_waylay.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_gouge.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_avatar.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_hunter_harass.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_heroicleap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_defensivestance.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_blackhand_marked4death.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_savageblow.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_focusedrage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_kingymiron.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_trauma.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warrior_colossussmash.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_angermanagement.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_backstab.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warrior_talent_icon_ravager.jpg'}
                       }
                   ]}
           ]
@@ -662,115 +662,115 @@ angular.module('starter.services', [])
               {name:'Brewmaster',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_arcanetorrent.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_primalprecision.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_chiwave.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quitornado.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_tigerslust.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quipunch.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quipunch.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_chibrew.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_pathofmists.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_ringofpeace.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/monk_ability_summonoxstatue.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_legsweep.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_jasmineforcetea.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_diffusemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_dampenharm.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_rushingjadewind.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_brewmaster_spec.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_brewery_2.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_shuffle.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_blackoutkick.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/monk_ability_avertharm.jpg'}
                       }
                   ]},
               {name:'Mistweaver',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_arcanetorrent.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_forcesphere.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingspeed.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quitornado.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_tigerslust.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quipunch.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_souldance.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/monk_stance_redcrane.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_pathofmists.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_ringofpeace.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_chaos_orb.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_legsweep.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_jasmineforcetea.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_diffusemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_dampenharm.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_rushingjadewind.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_cranegod.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_summonserpentstatue.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/monk_ability_cherrymanatea.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_nimblebrew.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_thunderking_lightningwhip.jpg'}
                       }
                   ]},
               {name:'Windwalker',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_arcanetorrent.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_druid_primalprecision.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_chiwave.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quitornado.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_tigerslust.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_quipunch.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_energizingwine.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_ascension.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_powerstrikes.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_ringofpeace.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_blackoutkick.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_legsweep.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_jasmineforcetea.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_diffusemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_dampenharm.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_rushingjadewind.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_summontigerstatue.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_palmstrike.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_forcesphere.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_hurricanestrike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_monk_serenity.jpg'}
                       }
                   ]}
           ]
@@ -782,115 +782,116 @@ angular.module('starter.services', [])
               {name:'Affliction',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_haunt.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_curseofsargeras.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_haunting.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_creature_disease_03.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_bossmannoroth_empoweredmannorothsgaze.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demoniccirclesummon.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_mortalcoil.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_howlofterror.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_requiem.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_seedofdestruction.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_felarmour.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_sealarmorbreachtga.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_sacrificial_pact.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofcommand.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofservice.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofsacrifice.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/trade_archaeology_highbornesoulmirror.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_enchant_voidsphere.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech_2.jpg'}
                       }
                   ]},
               {name:'Demonology',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_curse_shadow.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_shadowflame.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_impoweredimp.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_impphaseshift.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_empoweredimp.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_shadowandflame.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demoniccirclesummon.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_mortalcoil.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_shadowfurytga.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_handofguldan.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonictactics.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_felarmour.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_sealarmorbreachtga.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_sacrificial_pact.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofcommand.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofservice.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofsacrifice.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_durumu.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonbolt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech_2.jpg'}
                       }
                   ]},
               {name:'Destruction',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_backdraft.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_inferno.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_scourgebuild.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_backdraftgreen.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_zone_cataclysm.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demoniccirclesummon.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_mortalcoil.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_shadowfurytga.jpg'}
+                          
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_eradication.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_fireandbrimstone.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_felarmour.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_sealarmorbreachtga.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_sacrificial_pact.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofcommand.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofservice.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_grimoireofsacrifice.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_baneofhavoc.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_ragnaros_lavaboltgreen.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech_2.jpg'}
                       }
                   ]}
           ]
@@ -902,115 +903,116 @@ angular.module('starter.services', [])
               {name:'Arcane',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_socererking_arcanemines.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_enchantarmor.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_rune.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_massdispel.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_rune.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_wizardmark.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_magic_lesserinvisibilty.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_runeofpower.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_incantersabsorbtion.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_supernova.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_thunderking_overcharge.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_arcane01.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_iceflows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_ring-of-frost.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostward.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_nethertempest.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_unstablemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_missilebarrage.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_overpowered.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_invocation.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_arcaneorb.jpg'}
                       }
                   ]},
               {name:'Fire',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_volatilefire.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_firenova.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_fire.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_massdispel.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_rune.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_wizardmark.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_magic_lesserinvisibilty.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_runeofpower.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_incantersabsorbtion.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_excorcism_02.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_helm_circlet_firelands_d_01.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_trinket_firelands_02.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_iceflows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_ring-of-frost.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostward.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_livingbomb.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_unstablemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_flameorb.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_kindling.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_flare.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_meteor.jpg'}
                       }
                   ]},
               {name:'Frost',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_chillingblast.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_dungeon_frozenthrone.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_chilledtothebone.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_massdispel.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_rune.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_wizardmark.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_magic_lesserinvisibilty.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_runeofpower.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_incantersabsorbtion.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_icenova.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_coldasice.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_ice-shards.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_iceflows.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_ring-of-frost.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostward.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_frostbomb.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_unstablemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_arcticwinds.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_thermalvoid.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostbolt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_cometstorm.jpg'}
                       }
                   ]}
           ]
@@ -1022,115 +1024,115 @@ angular.module('starter.services', [])
               {name:'Outlaw',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_creature_cursed_02.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_sword_97.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_40.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_grapplinghook.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warrior_wildstrike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_fleetfooted.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/archaeology_5_0_changkiboard.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_slaughterfromtheshadows.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_vigor.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_11.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_turnthetables.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_cheatdeath.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_character_human_male.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_preyontheweak.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_dirtydeeds.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_cannonballbarrage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_speedoflight.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_murderspree.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_slicedice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_bg_killingblow_berserker.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_rogue_deathfromabove.jpg'}
                       }
                   ]},
               {name:'Assassination',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_06.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_map08.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_lifedrain.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_stealth.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_subterfuge.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_shadowfocus.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/archaeology_5_0_changkiboard.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_slaughterfromtheshadows.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_vigor.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_leeching_poison.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_turnthetables.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_cheatdeath.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandana_03.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_preyontheweak.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_bloodsplatter.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_poison_mindnumbing.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_speedoflight.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_earth.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_venomzest.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_bg_killingblow_berserker.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_rogue_deathfromabove.jpg'}
                       }
                   ]},
               {name:'Subtlety',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_masterofsubtlety.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_bladerush.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_convulsiveshadows.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_stealth.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_subterfuge.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/rogue_shadowfocus.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/archaeology_5_0_changkiboard.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_slaughterfromtheshadows.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_vigor.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_twilight.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_turnthetables.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_cheatdeath.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_unfairadvantage.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_preyontheweak.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_volatileshadow.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_possession.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_speedoflight.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rogue_envelopingshadows.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_charm.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_bg_killingblow_berserker.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_rogue_deathfromabove.jpg'}
                       }
                   ]}
           ]
@@ -1142,115 +1144,115 @@ angular.module('starter.services', [])
               {name:'Shadow',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_mindtwisting.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_studentofthemind.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_presenceofmind.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_skull.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_symbolofhope.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_misery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_mindbomb.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_psychichorrors.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_void-flay.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/warlock_summon_-voidlord.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_warlock_soulswap.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_voidsear.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_lanathel.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_auspiciousspirits.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_possession.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_powerinfusion.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_shadowfury.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech_3.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_enchant_voidcrystal.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_mindspike.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/achievement_boss_generalvezax_01.jpg'}
                       }
                   ]},
               {name:'Holy',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_wordsofmeaning.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/priest_icon_chakra.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_arcane_mindmastery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_angelicfeather.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_persecution.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_testoffaith.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blindinglight2.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_eyeforaneye.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencemagiclarge.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_pet_naaru.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_pathofthedevout.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_symbolofhope.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_surgeoflight.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_blindingheal.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_bindingprayers.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_ascendance.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_divinestar.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_halo.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_ascension.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_monk_diffusemagic.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_circleofrenewal.jpg'}
                       }
                   ]},
               {name:'Discipline',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_finalprayer.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_searinglightpriest.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_warlock_focusshadow.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_angelicfeather.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_symbolofhope.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_misery.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blindinglight2.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_psychichorrors.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_void-flay.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_flashoflight.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divineprotection.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulleech_3.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_savinggrace.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_powerinfusion.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_mindtwisting.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_clarityofwill.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_priest_divinestar.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_priest_halo.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mage_firestarter.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_hopeandgrace.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shadow_summonvoidwalker.jpg'}
                       }
                   ]}
           ]
@@ -1262,115 +1264,116 @@ angular.module('starter.services', [])
               {name:'Holy',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blessedmending.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_lightshammer.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_swiftretribution.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_divinesteed.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_unyieldingfaith.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_longarmofthelaw.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_fistofjustice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_prayerofhealing.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blindinglight.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_devotionaura.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_earth.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_blessedlife.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divinepurpose.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_holyavenger.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_holyprism.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_selflesshealer.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_sanctifiedwrath.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divineprovidence.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_beaconsoflight.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_clarityofpurpose.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_beaconofinsight.jpg'}
                       }
                   ]},
               {name:'Retribution',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_templarsverdict.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_executionsentence.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_innerfire.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_crusaderstrike.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_sealofblood.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_righteousfury.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_fistofjustice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_prayerofhealing.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blindinglight.jpg'}
+                      },
+                      {
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_bladeofjustice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_bladeofjusticeblue.jpg'},
                           left:{icon:''}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_retributionaura.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_paladin_inquisition.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_helmet_96.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_timestop.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_divinesteed.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_sealofvengeance.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
-                      },
-                      {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divinepurpose.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_sanctifiedwrath.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_vindication.jpg'}
                       }
                   ]},
               {name:'Protection',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_blessingofprotection.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/paladin_retribution.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_hammer_01.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_skyreach_shielded.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/paladin_protection.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_enlightenedjudgements.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_fistofjustice.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_prayerofhealing.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blindinglight.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_blessingofprotection.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_divinesteed.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_auraoflight.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_blessedhands.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_mount_charger.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_crusade.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_greaterblessingoflight.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divineprovidence.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_enlightenedjudgements.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_shieldofthetemplar.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_paladin_seraphim.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_holy_divinepurpose.jpg'}
                       }
                   ]}
           ]
@@ -1382,115 +1385,115 @@ angular.module('starter.services', [])
               {name:'Restoration',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_healingwavelesser.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_unleashweapon_life.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_riptide.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_skyreach_four_wind.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_spectraltransformation.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_windwalktotem.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_brilliance.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_stranglevines.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_summonwaterelemental.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_ancestralguidance.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shawaterelemental_reform.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_reincarnation.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_stoneskintotem.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_blessingoftheeternals.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shawaterelemental_swirl.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_condensationtotem.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_echooftheelements.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shawaterelemental_split.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_hightide.jpg'}
                       }
                   ]},
               {name:'Enhancement',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_skyreach_wind_wall.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_playingwithfire.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_earthenfury_giftofearth.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_giftofthewaterspirit.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_beastmaster_wolf.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_windwalktotem.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_brilliance.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_stranglevines.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_lightningshield.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_elementaloath.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostbrand.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_stormvine.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_callstorm.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_lightning_lightningbolt01.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_unrelentingstorm.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_swirlingvortex.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_rhyolith_lavapool.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_ore_blackrock_nugget.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_earthen_pillar.jpg'}
                       }
                   ]},
               {name:'Elemental',
                   ranks:[
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_mage_flameorb.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_earthen_pillar.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_wrathofair_totem.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_skyreach_four_wind.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_ancestralguidance.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_windwalktotem.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_brilliance.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_stranglevines.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/shaman_talent_elementalblast.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_elementaloath.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/ability_shaman_echooftheelements.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_shockinglava.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/shaman_talent_primalelementalist.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_frost_iceshard.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_wispheal.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_measuredinsight.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_nature_stormreach.jpg'}
                       },
                       {
-                          right:{icon:''},
-                          center:{icon:''},
-                          left:{icon:''}
+                          right:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_fire_elementaldevastation.jpg'},
+                          center:{icon:'http://wow.zamimg.com/images/wow/icons/medium/inv_rod_enchantedcobalt.jpg'},
+                          left:{icon:'http://wow.zamimg.com/images/wow/icons/medium/spell_shaman_spewlava.jpg'}
                       }
                   ]}
           ]
@@ -1545,99 +1548,99 @@ angular.module('starter.services', [])
                 ranks:[
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/837db069b52f24c4d431f2f229cb157d.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/acb981868d509fad3178f124eb58c165.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0934e0da0ce902d8cd271ea2d2de8a7f.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/be360f936f78558a2035f541fba746d1.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5f11a96530242f4891e2d84a686937ce.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b0864d9615899b35705620da459372f4.png?height=50'
                         },
                         extra:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/00806c1814dff9f2c07f4e06eb3408c9.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/fdfdb3bb7322f41d27cc5bbbcaa58513.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/4a1338d10f403cad6bd23f0f32defb60.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9e25e6fd0c840adc557a5b40a58697e3.png?height=50'
                         },
                         extra:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/baac61925d45741d03f36517d641167e.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/18e7f1272fa780ac44585d2aedb730bc.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8bb200b861a4498eefb4529e9c0866a2.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8784ca901c23e4b3683273121334ee90.png?height=50'
                         },
                         extra:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/31dfa3b5fadd0628501461c489f88b4c.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e321bb8d208e9ad00ef47529941156c9.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a24a504c2e03b0bc9f12b61e9f1863cb.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/daa1fd4460b175f5df11ef14559c9a43.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'
                         }
                     },
                     {
                         right:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c247e0f74f285e119fabee84a0c840b5.png?height=50'
                         },
                         center:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/88a9fe0a983b4e662566820c95ec1dd8.png?height=50'
                         },
                         left:{
-                            icon:''
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8a7c0f522993573054bac8974779cd29.png?height=50'
                         }
                     }
                 ]
@@ -1646,47 +1649,47 @@ angular.module('starter.services', [])
                 name:'Sunbreaker',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dfe75f2f3de4e574c3985442b9337bff.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/474281d6170d01107c7cca75b43577bd.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/84736af83cbdf1c076d5208b5629e832.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/be360f936f78558a2035f541fba746d1.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5f11a96530242f4891e2d84a686937ce.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b0864d9615899b35705620da459372f4.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/00806c1814dff9f2c07f4e06eb3408c9.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ff741ff26bea808a13563b16237a8af7.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/4516aea8dd4556ac0ca9104c950e82d9.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8d3ab6c8f0ea6dc5f5e2e28473ef1ec2.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5eaf708cbdd44da37b5298e2c3a78827.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0545d32ddc6f4374ad640827aac2abf8.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b417229cdfb8458fa4644755322f2568.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16b0399c8b075db768d47cea5f27bb79.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c247e0f74f285e119fabee84a0c840b5.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0e0ef854986c7446ad41c2546d4bc8c8.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a90689f5dd2f0470a947cc67e245740a.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f920ca933e57c46c5c86a4e5477ff77c.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1d003807e91544f5568b783c9531d558.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b2a2f222815bed920dd64adc47185e9f.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/fa6ed0be5129c8d7a86fead5f2f7398e.png?height=50'}
                     }
                 ]
             },
@@ -1694,47 +1697,47 @@ angular.module('starter.services', [])
                 name:'Striker',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a69fb3c9d68e56426111afe1dcdc226d.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/54d092a3d327267533dd4f3e8c43d3f2.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/d2c760ba0e0cd3c5df9424ebf7d7257b.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/be360f936f78558a2035f541fba746d1.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5f11a96530242f4891e2d84a686937ce.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b0864d9615899b35705620da459372f4.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/00806c1814dff9f2c07f4e06eb3408c9.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c1f20877045db346ca96a79d7019a904.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/64864b58afea835d12d6d0af4b5d0f2c.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8a3851c6ad3baec49fb74d55185772fe.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c02db046cecd4334cda709d243794347.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3fe49ffb3f6e6fbe0392c5cf96bfc4f9.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/061a4a8105f5915ddf372f5b7c85f489.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c69adeaa6fa448f680fb4248cfbbfd10.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6fc9db4ff2e85c2d7aaf87e8d28d9482.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6dfc2158eecaad5a60aad3ed9adeb4f2.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c6386ff3c59c469aa034ead9c0826202.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6092a940065909f2627be4b92be4e888.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e321bb8d208e9ad00ef47529941156c9.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e8c5588fdc22c0bf70afeb8b9d28e474.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1cb9e38050ebb00e023de267093c7a51.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/41903ff34e91456b0a7df7441278334a.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c19d825150a9167284c5ee7bcf305641.png?height=50'}
                     }
                 ]
             }
@@ -1840,9 +1843,9 @@ angular.module('starter.services', [])
                     },
                     {
                         right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/7d5cb8ccb1d919ea1777aa4a27caa529.png?height=50'},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9af2b5e35df4ad9d387aff33c6bda7f1.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/535663a8cb839ab99e510053b675d158.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c801c86d91dbb4a6d78f523123a59f74.png?height=50'}
                     },
                     {
                         right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
@@ -1850,18 +1853,18 @@ angular.module('starter.services', [])
                         left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6a974a0ab138acf8bcd7e13bcfaf3e70.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f2e735bbdd20fe533e53ad4a5430b3cb.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/bb721a8b01dcd791a3b5236611367569.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/796b55f8e6a302fb88dbf82da3263065.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f59fc882fadef834ccf58ee016b27ecf.png?height=50'},
                         left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1734bd0658bbfd3251ae99b3cc2bd858.png?height=50'}
                     }
                 ]
@@ -1870,47 +1873,47 @@ angular.module('starter.services', [])
                 name:'Nightstalker',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/acb981868d509fad3178f124eb58c165.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/89c72ab7de0374fabd77b8b66d926847.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a3e122311d87837bc92e3c81a90324af.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e149413cdc19c0d3e8b6975975e89932.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3a599edfc6e16861b2d3e8e2b112a5d1.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e45f05f11bdb1110d5b70a488d029c89.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/54328c6b5e711bea6a4bf0a19a14b07c.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/614bb5fc7e66abb0c70fa5560a693cfa.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/186c375073679e72366b41b26b81f59c.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/02baca96864969a2c6c77099387f15f2.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/fe80a92927b94a93037e506b959ddf36.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/def08f1919145bf3d44abe22a355bdca.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/d05251799952dc2973e574b81ee73bf2.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce8e4159fe1c4a27bf8a6697f8ddac7d.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/58900d809a086a0bd1ea5e3bedd31fac.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/69613cbf320e4b0e143b76ac6ea8a2a6.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/d8d899efa69bee95ea2a20133a71ee15.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6807abea2b53fd2d11795cd8fafc06ee.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/569d65c87af75400bb6fe20460b13769.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/bd979224095eba0355ec4e669729ab6b.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1235e8a535b499b863379cfe16b00fc.png?height=50'}
                     }
                 ]
             }
@@ -1924,47 +1927,47 @@ angular.module('starter.services', [])
                 name:'Voidwalker',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a3e122311d87837bc92e3c81a90324af.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dda0d72daeb888e6bc299362492112fb.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c571d3bb30532dc29f36dc714932b1a3.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/71b77fad337c7e29c9ffc36bdce3e864.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1832b5712f3ff940875d385faa1d2381.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a66c21d684a8452f9def87c4148c126e.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/51ef363af6ae56393788f412ed3bc54f.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f0038ef1e98bbcf51a19ebc71e97dd8a.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c5d8b4c700a244f4316cf232bf0213e9.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/13aed16de3189915b35b964c0970fa7f.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/43f5e7f1bcc94eb436d7052b36b23fde.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/da1f2ada2d6a00566edb0f9c21ce85e2.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5e046942d8d3bc0112ab3bddc8b38c37.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3955fcb1e064f851092bbf69d39a6d7e.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/6f5d930d623eaae56bb6a6b107829690.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/054c83147778d27bb5111964866e0021.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/79f0f757bca5f8a09701f2a6162421d7.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0378d9ebde740abbdcb19d672162701c.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a93f8429111448250f070ab0448819cf.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9fb792cdc661a5571486397ec91655b4.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/fe492af8ddcb8a3fb31fb18d0b93ad37.png?height=50'}
                     }
                 ]
             },
@@ -1972,47 +1975,47 @@ angular.module('starter.services', [])
                 name:'Sunsinger',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/06d2b94f32e674e638d9fa786a242d2b.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9e4df5e8d92138461846320fe8199cd4.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dfe75f2f3de4e574c3985442b9337bff.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/71b77fad337c7e29c9ffc36bdce3e864.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1832b5712f3ff940875d385faa1d2381.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a66c21d684a8452f9def87c4148c126e.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/db92e192d2d2bc09423d9e1cdb86c1a1.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0d2ba3008d6eacd9164dc0db087d2f7a.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c4627d0fb60bfc2ae335a94ebdaac0b1.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e6f483b9909f5cb21c8da1ff947d20c9.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/92073c080a61cdb4927c00c31d01054b.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e43d4762f9de5c2b61b83a7514e05312.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/73acedcc0371574993ef0862f730f233.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/28bfffa42c245b3b13b00211a7cf1657.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3955fcb1e064f851092bbf69d39a6d7e.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9db54ec768a291f72cfda84e75b58204.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/5d09350b64dcb3e2f2b3f92c0c2e242f.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c69c4eff892518fc29ff2b1416d794de.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/8e04afef1795abd3906dc52aeb0b6651.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e37b1d31a3e9651898da52712eb3921a.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b5c2a7d40a4333d2a8a0f5eafd51d2fb.png?height=50'}
                     }
                 ]
             },
@@ -2020,47 +2023,47 @@ angular.module('starter.services', [])
                 name:'Stormcaller',
                 ranks:[
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/54d092a3d327267533dd4f3e8c43d3f2.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ddb84bb206d7b3da4c1e13ff60fbab52.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/2ab57d0cc810affd84abb169aac1414b.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/71b77fad337c7e29c9ffc36bdce3e864.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1832b5712f3ff940875d385faa1d2381.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a66c21d684a8452f9def87c4148c126e.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/db92e192d2d2bc09423d9e1cdb86c1a1.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/4a4d75c1b175c363fd78188379bcf167.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ef6a419ecd74fc80eeb83d550faf927f.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/10f203272a6ccca9519ee813bc82392b.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/4fc7874c208743e061f6a29f3541400b.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''},
-                        extra:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/edf4db6837042411b44803019b53bff0.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/fe9037fe4ec13f0d370e1cb189bc94e5.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/996ceb70cbccc401aa5e8b28298d6695.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/061a4a8105f5915ddf372f5b7c85f489.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e1eadc7a69bba333a28c340852e02449.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c91b3d4484d66d767226ab5c27d03efb.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/c9df87e2e34ed335eaef85b27cb72474.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dcdaf5323565777aa7d77a0f5d7a9663.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/dbf2bc2b99f77c4174f25009070e1977.png?height=50'}
                     },
                     {
-                        right:{icon:''},
-                        center:{icon:''},
-                        left:{icon:''}
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/242779e0f61e37978f3bf63daa158911.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b5d4ff5e6c98f4065bc76c739a821d8d.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/a25576db89360b48c9c6120fc25753da.png?height=50'}
                     }
                 ]
             }
