@@ -2,7 +2,7 @@
   <ion-content class="padding">
     <ion-list>
       <ion-item >
-          <select ng-model="destiny.class" ng-change="updateClassDestiny(destiny.class)">
+          <select ng-model="destiny.class" ng-change="updateClassDestiny(destiny.class)" id='destinyClassSelect'>
               <option value="" disabled="" selected="" class="ng-binding">Select a Class</option>
               <option ng-repeat="name in destiny" value="{{name.id}}">{{name.class}}</option>
           </select>
@@ -15,56 +15,52 @@
           </select>
           
       </ion-item>
-        <ion-list id="list" >
+        <ion-list id="listDestiny" hidden="">
           
-              <span class="item-input-inset talentss">
+              <span class="item-input-inset talt">
               <ion-radio ng-model="choice0" ng-value="'left'" name='choice0' >dd</ion-radio>
               <ion-radio ng-model="choice0" ng-value="'center'"name='choice0'selected=''>Choose B</ion-radio>
               <ion-radio ng-model="choice0" ng-value="'right'" name='choice0'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice1" ng-value="'left'" name='choice1'>Choose A</ion-radio>
               <ion-radio ng-model="choice1" ng-value="'center'" name='choice1'>Choose B</ion-radio>
               <ion-radio ng-model="choice1" ng-value="'right'" name='choice1'>Choose C</ion-radio>
-              <ion-radio ng-model="choice1" ng-value="'right'" name='choice1'>Choose C</ion-radio>
+              <ion-radio ng-model="choice1" ng-value="'extra'" name='choice1'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice2" ng-value="'left'" name='choice2'>Choose A</ion-radio>
               <ion-radio ng-model="choice2" ng-value="'center'" name='choice2'selected=''>Choose B</ion-radio>
               <ion-radio ng-model="choice2" ng-value="'right'" name='choice2'>Choose C</ion-radio>
-              <ion-radio ng-model="choice1" ng-value="'right'" name='choice1'>Choose C</ion-radio>
+              <ion-radio ng-model="choice2" ng-value="'extra'" name='choice2'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice3" ng-value="'left'"name='choice3'>Choose A</ion-radio>
               <ion-radio ng-model="choice3" ng-value="'center'"name='choice3'selected=''>Choose B</ion-radio>
               <ion-radio ng-model="choice3" ng-value="'right'"name='choice3'>Choose C</ion-radio>
-              <ion-radio ng-model="choice1" ng-value="'right'" name='choice1'>Choose C</ion-radio>
+              <ion-radio ng-model="choice3" ng-value="'extra'" name='choice3'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice4" ng-value="'left'"name='choice4'>Choose A</ion-radio>
               <ion-radio ng-model="choice4" ng-value="'center'"name='choice4'selected=''>Choose B</ion-radio>
               <ion-radio ng-model="choice4" ng-value="'right'"name='choice4'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice5" ng-value="'left'"name='choice5'>Choose A</ion-radio>
               <ion-radio ng-model="choice5" ng-value="'center'"name='choice5'selected=''>Choose B</ion-radio>
               <ion-radio ng-model="choice5" ng-value="'right'"name='choice5'>Choose C</ion-radio>
               </span>
-          <span class="item-input-inset talentss">
+          <span class="item-input-inset talt">
               <ion-radio ng-model="choice6" ng-value="'left'"name='choice6'>Choose A</ion-radio>
               <ion-radio ng-model="choice6" ng-value="'center'" name='choice6' >Choose B</ion-radio>
               <ion-radio ng-model="choice6" ng-value="'right'"name='choice6'>Choose C</ion-radio>
               </span>
-            <span class="item-input-inset talentss">
+            <span class="item-input-inset talt">
               <ion-radio ng-model="choice7" ng-value="'left'"name='choice7'>Choose A</ion-radio>
               <ion-radio ng-model="choice7" ng-value="'center'" name='choice7' >Choose B</ion-radio>
               <ion-radio ng-model="choice7" ng-value="'right'"name='choice7'>Choose C</ion-radio>
               </span>
-            <span class="item-input-inset talentss">
-              <ion-radio ng-model="choice8" ng-value="'left'"name='choice8'>Choose A</ion-radio>
-              <ion-radio ng-model="choice8" ng-value="'center'" name='choice8' >Choose B</ion-radio>
-              <ion-radio ng-model="choice8" ng-value="'right'"name='choice8'>Choose C</ion-radio>
-              </span>
+            
           </ion-list>
       </ion-list>
   </ion-content>

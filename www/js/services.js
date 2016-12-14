@@ -30,149 +30,185 @@ angular.module('starter.services', [])
                           }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{
+                            icon:''
+                        },
+                          center:{
+                            icon:''
+                        },
+                          left:{
+                            icon:''
+                        }
                       }
                   ]
               },
               {name:'Feral',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Guardian',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Restoration',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -184,115 +220,115 @@ angular.module('starter.services', [])
               {name:'Blood',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Frost',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Unholy',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -304,77 +340,77 @@ angular.module('starter.services', [])
               {name:'Vengence',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Havoc',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -386,115 +422,115 @@ angular.module('starter.services', [])
               {name:'Survival',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Marksmanship',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Beast Master',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -506,115 +542,115 @@ angular.module('starter.services', [])
               {name:'Fury',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Protection',
                  ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Arms',
                  ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -626,115 +662,115 @@ angular.module('starter.services', [])
               {name:'Brewmaster',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Mistweaver',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Windwalker',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -746,115 +782,115 @@ angular.module('starter.services', [])
               {name:'Affliction',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Demonology',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Destruction',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -866,115 +902,115 @@ angular.module('starter.services', [])
               {name:'Arcane',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Fire',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Frost',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -986,115 +1022,115 @@ angular.module('starter.services', [])
               {name:'Outlaw',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Assassination',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Subtlety',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -1106,115 +1142,115 @@ angular.module('starter.services', [])
               {name:'Shadow',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Holy',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Discipline',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -1226,115 +1262,115 @@ angular.module('starter.services', [])
               {name:'Holy',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Retribution',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Protection',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -1346,115 +1382,115 @@ angular.module('starter.services', [])
               {name:'Restoration',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Enhancement',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]},
               {name:'Elemental',
                   ranks:[
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       },
                       {
-                          right:{},
-                          center:{},
-                          left:{}
+                          right:{icon:''},
+                          center:{icon:''},
+                          left:{icon:''}
                       }
                   ]}
           ]
@@ -1505,13 +1541,202 @@ angular.module('starter.services', [])
         class:'Titan',
         specs:[
             {
-                name:'Defender'
+                name:'Defender',
+                ranks:[
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        },
+                        extra:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        },
+                        extra:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        },
+                        extra:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        }
+                    },
+                    {
+                        right:{
+                            icon:''
+                        },
+                        center:{
+                            icon:''
+                        },
+                        left:{
+                            icon:''
+                        }
+                    }
+                ]
             },
             {
-                name:'Sunbreaker'
+                name:'Sunbreaker',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             },
             {
-                name:'Striker'
+                name:'Striker',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             }
         ]
     },
@@ -1520,13 +1745,174 @@ angular.module('starter.services', [])
         class:'Hunter',
         specs:[
             {
-                name:'Gunslinger'
+                name:'Gunslinger',
+                ranks:[
+                    {
+                        right:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/84736af83cbdf1c076d5208b5629e832.png?height=50'
+                        },
+                        center:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/2152ee2ba3395305fa3efbedf4a8203f.png?height=50'
+                        },
+                        left:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1b0bcd9702c12b11f82956c22aac7883.png?height=50'
+                        }
+                    },
+                    {
+                        right:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e149413cdc19c0d3e8b6975975e89932.png?height=50'
+                        },
+                        center:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e45f05f11bdb1110d5b70a488d029c89.png?height=50'
+                        },
+                        left:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/54328c6b5e711bea6a4bf0a19a14b07c.png?height=50'
+                        },
+                        extra:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3a599edfc6e16861b2d3e8e2b112a5d1.png?height=50'
+                        }
+                    },
+                    {
+                        right:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/02618c4829704fb239cd2577d4963e97.png?height=50'
+                        },
+                        center:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f83eae88c4e7d8be196adc0cc5e7a8e9.png?height=50'
+                        },
+                        left:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9a74910c5effb1ac900233d7125c27dc.png?height=50'
+                        },
+                        extra:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/9a74910c5effb1ac900233d7125c27dc.png?height=50'
+                        }
+                    },
+                    {
+                        right:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3340e279acde7c2d56846b6fab71e9d1.png?height=50'
+                        },
+                        center:{
+                            icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/74250186b9345bc1d1e8b3d25ad0312c.png?height=50'
+                        },
+                        left:{ icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/79511b0ef68800ead4ec5ec33ffe6e6e.png?height=50' },
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/bfe6e53c7fb315e9fd95887750a891a5.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/d87578b9ffa8f67cccc7d488329d39f7.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/99761f51510d5f7a20a6aab367acc44d.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/796b55f8e6a302fb88dbf82da3263065.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/ce2f94eac022e74a1b9e5829a9a6276e.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/b158c47b6828357ee9209a9b45e07b5f.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/f2a69d746b018764d9b88c53589ded0d.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e63dff473e8630e15ba6ed005f3db64a.png?height=50'}
+                    }
+                ]
             },
             {
-                name:'Bladedancer'
+                name:'Bladedancer',
+                ranks:[
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/cc0fc2b07e3952b5abb8928917236a90.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/acdc50420d6157fc68125e8f946cd4b1.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/2ab57d0cc810affd84abb169aac1414b.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e149413cdc19c0d3e8b6975975e89932.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/3a599edfc6e16861b2d3e8e2b112a5d1.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/e45f05f11bdb1110d5b70a488d029c89.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/51ef363af6ae56393788f412ed3bc54f.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/802d45cde30d7662bb5ba6bd4496cb73.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1c3a00d287770b9b8d1e0863b01f2658.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/aa61a3d14ff23abb06bfedd55ff5e222.png?height=50'},
+                        extra:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/0eb4565800af4df73c3391b88db34af4.png?height=50'}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/7d5cb8ccb1d919ea1777aa4a27caa529.png?height=50'},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        center:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/16f260e65ec0bbf7a98301397ab41a34.png?height=50'}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:'http://media.services.zam.com/v1/media/byName/common/destiny_content/icons/1734bd0658bbfd3251ae99b3cc2bd858.png?height=50'}
+                    }
+                ]
             },
             {
-                name:'Nightstalker'
+                name:'Nightstalker',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             }
         ]
     },
@@ -1535,13 +1921,148 @@ angular.module('starter.services', [])
         class:'Warlock',
         specs:[
             {
-                name:'Voidwalker'
+                name:'Voidwalker',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             },
             {
-                name:'Sunsinger'
+                name:'Sunsinger',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             },
             {
-                name:'Stormcaller'
+                name:'Stormcaller',
+                ranks:[
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''},
+                        extra:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    },
+                    {
+                        right:{icon:''},
+                        center:{icon:''},
+                        left:{icon:''}
+                    }
+                ]
             }
         ]
     }

@@ -33,7 +33,11 @@ angular.module('starter.controllers', [])
   $scope.updateSpecsWow = function (e){
       var list = document.getElementById('list');
       list.removeAttribute('hidden');
-      var selectClass = document.getElementsByTagName('select')[0].selectedOptions[0].value;
+      
+      //console.log($scope.wow);
+      var selectClass = $scope.wow.class;
+      //console.log(selectClass);
+
       var talents = $scope.wow[selectClass].specs[e].ranks;
       var ss = document.getElementsByClassName('talentss');
       for(talent in talents){
@@ -56,7 +60,7 @@ angular.module('starter.controllers', [])
           img = document.createElement('img');
           img.setAttribute('src',talents[talent].left.icon);
           talentss[2].childNodes[1].childNodes[0].appendChild(img);
-          console.log(talents[talent].right.name);
+          //console.log(talents[talent].right.name);
       }
   };
 })
@@ -99,39 +103,52 @@ angular.module('starter.controllers', [])
           spec.appendChild(out);
       }
       spec.removeAttribute('disabled');
-      //$scope.updateSpecsDestiny(0);
-      //spec.onchange = function (e){
-      //    $scope.updateSpecsDestiny(e.target.selectedOptions[0].value);
-      //}
+      $scope.updateSpecsDestiny(0);
+      spec.onchange = function (e){
+          $scope.updateSpecsDestiny(e.target.selectedOptions[0].value);
+      }
   };
   $scope.updateSpecsDestiny = function (e){
-      var list = document.getElementById('list');
+      var list = document.getElementById('listDestiny');
       list.removeAttribute('hidden');
-      var selectClass = document.getElementsByTagName('select')[0].selectedOptions[0].value;
+      //console.log($scope.destiny);
+      var selectClass = $scope.destiny.class;
+      //console.log(selectClass);
       var talents = $scope.destiny[selectClass].specs[e].ranks;
-      var ss = document.getElementsByClassName('talentss');
+      //console.log($scope.destiny[0].specs[e]);
+      var ss = document.getElementsByClassName('talt');
       for(talent in talents){
           //1,3,5
           var talentss =[ss[talent].childNodes[1],ss[talent].childNodes[3],ss[talent].childNodes[5]];
           //talentss[0].childNodes[1].childNodes[0].childNodes[0].innerText = talents[talent].right.name;
-          
-          talentss[0].childNodes[1].childNodes[0].childNodes[0].innerText = "";
+          talentss[0].childNodes[1].childNodes[0].removeChild(talentss[0].childNodes[1].childNodes[0].lastChild);
+          //talentss[0].childNodes[1].childNodes[0].childNodes[0].innerText = "";
           var img = document.createElement('img');
           img.setAttribute('src',talents[talent].right.icon);
           
           talentss[0].childNodes[1].childNodes[0].appendChild(img);
           //talentss[0].childNodes[1].childNodes[0].childNodes[0].appendChild(img);
-          talentss[1].childNodes[1].childNodes[0].childNodes[0].innerText = talents[talent].center.name;
           
-          talentss[1].childNodes[1].childNodes[0].childNodes[0].innerText = "";
+          talentss[1].childNodes[1].childNodes[0].removeChild(talentss[1].childNodes[1].childNodes[0].lastChild);
           img = document.createElement('img');
           img.setAttribute('src',talents[talent].center.icon);
           talentss[1].childNodes[1].childNodes[0].appendChild(img);
-          talentss[2].childNodes[1].childNodes[0].childNodes[0].innerText = "";
+          talentss[2].childNodes[1].childNodes[0].removeChild(talentss[2].childNodes[1].childNodes[0].lastChild);
           img = document.createElement('img');
           img.setAttribute('src',talents[talent].left.icon);
           talentss[2].childNodes[1].childNodes[0].appendChild(img);
-          console.log(talents[talent].right.name);
+          //console.log(talents[talent].right.name);
+          //console.log(ss[talent].getElementsByTagName('label').length);
+          if(ss[talent].getElementsByTagName('label').length>=4){
+             
+             var bb = document.getElementsByClassName('talt')[talent];
+             //console.log(bb.childNodes[7]);
+             bb.childNodes[7].childNodes[1].childNodes[0].removeChild(bb.childNodes[7].childNodes[1].childNodes[0].lastChild);
+             img = document.createElement('img');
+             img.setAttribute('src',talents[talent].extra.icon);
+             
+             bb.childNodes[7].childNodes[1].childNodes[0].appendChild(img); 
+          }
       }
   };
 })
